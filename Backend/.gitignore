@@ -1,0 +1,4 @@
+# filepath: /mnt/c/Users/aravm/OneDrive/Documents/coursera-app/Backend/.gitignore
+node_modules/
+.env
+*.log
