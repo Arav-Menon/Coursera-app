@@ -27,7 +27,7 @@ function AppBar() {
                     })}
                     {/* AuthBtn */}
                     <div>
-                        <Link to={"/signup"} className='border-2 border-white px-4 py-2 rounded-lg hover:bg-white/90 hover:text-red-500'>Signup22</Link>
+                        <Link to={"/signup"} className='border-2 border-white px-4 py-2 rounded-lg hover:bg-white/90 hover:text-red-500'>Signup</Link>
                     </div>
                 </div>
             </div>
